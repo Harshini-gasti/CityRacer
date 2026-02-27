@@ -13,7 +13,7 @@ Age Restriction System (18+) before gameplay starts
 
 Player profile input and display system
 
-Mini Map for better road navigation
+Mini Map for better road navigation using LateUpdate()
 
 Car movement and gameplay animations
 
